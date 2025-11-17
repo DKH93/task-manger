@@ -43,7 +43,7 @@
 *   Commit messages reference corresponding issues (e.g., `(closes Issue 4)`).
 
 **Setup Instructions:**
-1.  Clone the repository: `git clone (https://github.com/mhm1232844/Simple-task-manager)`
+1.  Clone the repository: 
 2.  Navigate to the directory: `cd simple-task-manager`
 3.  Install dependencies: `bundle install`
 4.  Setup the database: `rails db:setup` (This runs `db:create`, `db:schema:load`, `db:seed` if seeds exist)
