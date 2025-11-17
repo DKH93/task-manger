@@ -38,7 +38,7 @@
 *   Graceful handling of `RecordNotFound` errors (redirect with alert).
 
 **Agile Practices / Scrum Artifacts:**
-*   User stories tracked as GitHub Issues: [[GitHub Issues page](https://github.com/mhm1232844/Simple-task-manager/issues)]
+*   User stories 
 *   Development followed TDD/BDD cycles for each feature (Cucumber -> RSpec -> Implementation).
 *   Commit messages reference corresponding issues (e.g., `(closes Issue 4)`).
 
@@ -58,4 +58,4 @@
 *   **Run all tests:** You might configure a default `rake` task or run them sequentially: `bundle exec rspec && bundle exec cucumber`.
 
 **Author:**
-*  mhm1232844
+*  DKH93
